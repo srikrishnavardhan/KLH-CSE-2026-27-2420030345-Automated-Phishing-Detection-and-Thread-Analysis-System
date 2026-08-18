@@ -13,7 +13,7 @@
 | 2420030096 | D. Sanjay Ram Reddy |
 | 2420030137 | Aryan Vinayak Salunkhe |
 | 2420030345 | Ch. Sri Krishna Vardhan |
-| 2420030634 | A. Srivathava Reddy |
+| 2420030634 | A. Srivathsava Reddy |
 
 ---
 
